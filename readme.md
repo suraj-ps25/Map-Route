@@ -1,6 +1,2 @@
-This is a tool to help find route from a to b via 2 points c and d.
-
-After setting up djnago enviroment go to the setiings of route , scroll down to bottom
-  - Find google api key and recaptcha 
-  - generate your own keys and add there brfore using .
+ This project aims to provide users with a convenient way to find a route on a map, including two intermediate points, from a specified source to a destination. It leverages various Google APIs to perform tasks like geocoding (converting addresses to coordinates), calculating distances between points, generating directions, and searching for places of interest along the route. Additionally, reCAPTCHA is integrated into the registration process to ensure user authenticity
 
